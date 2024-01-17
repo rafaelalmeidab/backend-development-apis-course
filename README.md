@@ -1,6 +1,6 @@
 # Back-end Development and APIs Course - FreeCodeCamp
 
-![FreeCodeCamp Logo](https://www.freecodecamp.org/news/content/images/2021/06/external-content.duckduckgo.com.png)
+![FreeCodeCamp Logo](https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg)
 
 This repository contains my solutions and projects completed during the [FreeCodeCamp Back-end Development and APIs course](https://www.freecodecamp.org/learn/back-end-development-and-apis/). The course covers various topics related to back-end development, server-side scripting, and working with APIs.
 
